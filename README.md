@@ -3,4 +3,4 @@
 
  ## meu discord pra contato é fastnay_
 
-! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogjavascript.com.br%2Fpost%2Fuso-de-javascript-em-sistemas-embarcados&psig=AOvVaw1Elqghyuk7dn-vuwufatEz&ust=1749071904008000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj65-GW1o0DFQAAAAAdAAAAABAE)
+![Imagem sobre JavaScript embarcado](https://images.prismic.io/blogjavascript/4502e0bb-14cb-4da9-845b-7083e48ccc00_1.jpg?auto=compress,format)
