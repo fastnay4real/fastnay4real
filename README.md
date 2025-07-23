@@ -3,5 +3,8 @@
 
  ## meu discord pra contato é fastnay_
 
+ ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
+
+
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fastnay4real&show_icons=true&theme=radical)
 
