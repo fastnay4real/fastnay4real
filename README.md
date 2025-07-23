@@ -3,7 +3,8 @@
 
  ## meu discord pra contato é fastnay_
 
- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fastnay4real&show_icons=true&theme=radical)
